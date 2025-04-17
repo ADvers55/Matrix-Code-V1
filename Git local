@@ -1,5 +1,4 @@
 bash
-
 mkdir Matrix-Code-V1
 cd Matrix-Code-V1
 git init
